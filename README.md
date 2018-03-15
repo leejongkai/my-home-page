@@ -1,5 +1,7 @@
 # my-home-page
-2016-intern </br>
-網頁前端設計</br>
-原始檔可至gh-pages分支查看</br>
-My site is published at https://leejongkai.github.io/my-home-page/
+網頁前端設計
+## My site is published at https://leejongkai.github.io/my-home-page/
+
+## Copyright and License
+
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
